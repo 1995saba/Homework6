@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\bin\Debug\Homework.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\bin\Debug\Homework.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\bin\Debug\Homework.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\obj\Debug\Homework.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkIndexators\Homework\obj\Debug\Homework.pdb
